@@ -1,0 +1,313 @@
+{
+ "n_baris": 522,
+ "n_kolom": 18,
+ "n_klub": 20,
+ "total_gol": 972,
+ "total_xg": 1044.4,
+ "total_penalti": 101,
+ "total_tembakan": 9072,
+ "konversi_tembakan": 10.7,
+ "pct_nol_gol": 48.9,
+ "mean_gol": 1.86,
+ "skew_gol": 2.85,
+ "top10": [
+  {
+   "player_name": "Harry Kane",
+   "team_title": "Tottenham",
+   "goals": 23,
+   "npg": 19,
+   "penalti": 4,
+   "xG": 22.17
+  },
+  {
+   "player_name": "Mohamed Salah",
+   "team_title": "Liverpool",
+   "goals": 22,
+   "npg": 16,
+   "penalti": 6,
+   "xG": 20.25
+  },
+  {
+   "player_name": "Bruno Fernandes",
+   "team_title": "Manchester United",
+   "goals": 18,
+   "npg": 9,
+   "penalti": 9,
+   "xG": 16.02
+  },
+  {
+   "player_name": "Son Heung-Min",
+   "team_title": "Tottenham",
+   "goals": 17,
+   "npg": 16,
+   "penalti": 1,
+   "xG": 11.02
+  },
+  {
+   "player_name": "Patrick Bamford",
+   "team_title": "Leeds",
+   "goals": 17,
+   "npg": 15,
+   "penalti": 2,
+   "xG": 18.4
+  },
+  {
+   "player_name": "Dominic Calvert-Lewin",
+   "team_title": "Everton",
+   "goals": 16,
+   "npg": 16,
+   "penalti": 0,
+   "xG": 18.14
+  },
+  {
+   "player_name": "Jamie Vardy",
+   "team_title": "Leicester",
+   "goals": 15,
+   "npg": 7,
+   "penalti": 8,
+   "xG": 19.94
+  },
+  {
+   "player_name": "Ollie Watkins",
+   "team_title": "Aston Villa",
+   "goals": 14,
+   "npg": 13,
+   "penalti": 1,
+   "xG": 16.28
+  },
+  {
+   "player_name": "Ilkay Gündogan",
+   "team_title": "Manchester City",
+   "goals": 13,
+   "npg": 12,
+   "penalti": 1,
+   "xG": 9.57
+  },
+  {
+   "player_name": "Alexandre Lacazette",
+   "team_title": "Arsenal",
+   "goals": 13,
+   "npg": 10,
+   "penalti": 3,
+   "xG": 12.03
+  }
+ ],
+ "kor_gol_xg": 0.86,
+ "kor_gol_shots": 0.81,
+ "kor_gol_kuning": 0.27,
+ "posisi_desk": [
+  {
+   "posisi": "Penyerang",
+   "pemain": 122,
+   "gol": 613
+  },
+  {
+   "posisi": "Gelandang",
+   "pemain": 179,
+   "gol": 259
+  },
+  {
+   "posisi": "Bek",
+   "pemain": 132,
+   "gol": 99
+  },
+  {
+   "posisi": "Kiper",
+   "pemain": 39,
+   "gol": 1
+  },
+  {
+   "posisi": "Lainnya",
+   "pemain": 50,
+   "gol": 0
+  }
+ ],
+ "klub": [
+  {
+   "team_title": "Manchester City",
+   "gol": 77,
+   "xg": 76.2,
+   "selisih": 0.8
+  },
+  {
+   "team_title": "Manchester United",
+   "gol": 68,
+   "xg": 62.0,
+   "selisih": 6.0
+  },
+  {
+   "team_title": "Tottenham",
+   "gol": 66,
+   "xg": 57.8,
+   "selisih": 8.2
+  },
+  {
+   "team_title": "Leicester",
+   "gol": 64,
+   "xg": 59.1,
+   "selisih": 4.9
+  },
+  {
+   "team_title": "Liverpool",
+   "gol": 64,
+   "xg": 72.1,
+   "selisih": -8.1
+  },
+  {
+   "team_title": "Leeds",
+   "gol": 60,
+   "xg": 59.8,
+   "selisih": 0.2
+  },
+  {
+   "team_title": "West Ham",
+   "gol": 57,
+   "xg": 60.5,
+   "selisih": -3.5
+  },
+  {
+   "team_title": "Chelsea",
+   "gol": 56,
+   "xg": 69.3,
+   "selisih": -13.3
+  },
+  {
+   "team_title": "Arsenal",
+   "gol": 51,
+   "xg": 52.1,
+   "selisih": -1.1
+  },
+  {
+   "team_title": "Aston Villa",
+   "gol": 49,
+   "xg": 54.4,
+   "selisih": -5.4
+  },
+  {
+   "team_title": "Everton",
+   "gol": 45,
+   "xg": 49.3,
+   "selisih": -4.3
+  },
+  {
+   "team_title": "Southampton",
+   "gol": 42,
+   "xg": 41.0,
+   "selisih": 1.0
+  },
+  {
+   "team_title": "Crystal Palace",
+   "gol": 39,
+   "xg": 35.5,
+   "selisih": 3.5
+  },
+  {
+   "team_title": "Brighton",
+   "gol": 39,
+   "xg": 54.3,
+   "selisih": -15.3
+  },
+  {
+   "team_title": "Newcastle United",
+   "gol": 36,
+   "xg": 40.7,
+   "selisih": -4.7
+  },
+  {
+   "team_title": "Wolverhampton Wanderers",
+   "gol": 33,
+   "xg": 38.5,
+   "selisih": -5.5
+  },
+  {
+   "team_title": "West Bromwich Albion",
+   "gol": 33,
+   "xg": 34.9,
+   "selisih": -1.9
+  },
+  {
+   "team_title": "Burnley",
+   "gol": 32,
+   "xg": 37.8,
+   "selisih": -5.8
+  },
+  {
+   "team_title": "Fulham",
+   "gol": 25,
+   "xg": 37.9,
+   "selisih": -12.9
+  },
+  {
+   "team_title": "Sheffield United",
+   "gol": 18,
+   "xg": 33.1,
+   "selisih": -15.1
+  }
+ ],
+ "klub_di_bawah_xg": 13,
+ "kw_n": 304,
+ "shapiro": {
+  "Penyerang": {
+   "W": 0.942,
+   "p": 0.00038081079782204387
+  },
+  "Gelandang": {
+   "W": 0.595,
+   "p": 2.3695585906999468e-17
+  },
+  "Bek": {
+   "W": 0.872,
+   "p": 9.735203305506084e-07
+  }
+ },
+ "levene": {
+  "stat": 26.85,
+  "p": 1.8576126810805844e-11
+ },
+ "kw": {
+  "H": 110.24,
+  "df": 2,
+  "p": 1.1499870458464407e-24,
+  "epsilon2": 0.364
+ },
+ "kw_ringkas": [
+  {
+   "posisi": "Penyerang",
+   "n": 94,
+   "median": 0.239,
+   "mean": 0.276,
+   "mean_rank": 230.66
+  },
+  {
+   "posisi": "Gelandang",
+   "n": 130,
+   "median": 0.042,
+   "mean": 0.084,
+   "mean_rank": 121.946
+  },
+  {
+   "posisi": "Bek",
+   "n": 80,
+   "median": 0.045,
+   "mean": 0.051,
+   "mean_rank": 110.312
+  }
+ ],
+ "dunn": [
+  {
+   "pasangan": "Penyerang vs Gelandang",
+   "z": 9.21,
+   "p_bonferroni": 0.0
+  },
+  {
+   "pasangan": "Penyerang vs Bek",
+   "z": 9.07,
+   "p_bonferroni": 0.0
+  },
+  {
+   "pasangan": "Gelandang vs Bek",
+   "z": 0.94,
+   "p_bonferroni": 1.0
+  }
+ ]
+}
